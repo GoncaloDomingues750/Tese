@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pymongo
+motor
+python-dotenv
+bcrypt
+python-jose[cryptography]
+pydantic
+biopython
+scikit-learn
+torch
+transformers
+passlib
+python-multipart
