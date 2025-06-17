@@ -12,3 +12,8 @@ torch
 transformers
 passlib
 python-multipart
+
+matplotlib
+numpy
+pandas
+requests
